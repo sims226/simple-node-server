@@ -1,0 +1,22 @@
+{
+  "name": "simple-node-server",
+  "version": "1.0.0",
+  "description": "simple node server with http",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sims226/simple-node-server.git"
+  },
+  "author": "Anthony Sims",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sims226/simple-node-server/issues"
+  },
+  "homepage": "https://github.com/sims226/simple-node-server#readme",
+  "dependencies": {
+    "mime": "^1.3.6"
+  }
+}
